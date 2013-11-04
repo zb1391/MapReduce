@@ -1,0 +1,9 @@
+This is my first assignment for Operating Systems Design 198:416.
+
+The purpose of this project was to teach the principles of parallel programming through threads and processors. We implemented the MapReduce algorithm for two different sorting tasks:
+
+1)Word-Count: given a text file, organize its content in alphabetical order and count the number of appearances of each word
+
+2)Int-Sort: given a text file of just numbers each on its line, sort the numbers in ascending order
+
+The assignment.pdf provides more details of the requirements for this project and report.pdf further describes our implementation.
